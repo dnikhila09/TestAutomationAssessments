@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke" duration-ms="172471" started-at="2021-03-23T14:45:43 IST" finished-at="2021-03-23T14:48:36 IST">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="172471" started-at="2021-03-23T14:45:43 IST" finished-at="2021-03-23T14:48:36 IST">
+      <class name="com.valuemomentum.retail.Assessment1.tests.SmokeTest">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.valuemomentum.retail.Assessment1.tests.SmokeTest@5ace1ed4]" name="createDriver" is-config="true" duration-ms="32993" started-at="2021-03-23T14:45:43 IST" finished-at="2021-03-23T14:46:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.valuemomentum.retail.Assessment1.tests.SmokeTest@5ace1ed4]" name="setup" is-config="true" duration-ms="44" started-at="2021-03-23T14:46:16 IST" finished-at="2021-03-23T14:46:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyMobile()[pri:1, instance:com.valuemomentum.retail.Assessment1.tests.SmokeTest@5ace1ed4]" name="verifyMobile" duration-ms="138162" started-at="2021-03-23T14:46:17 IST" finished-at="2021-03-23T14:48:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobile -->
+        <test-method status="PASS" signature="test_aftersuite()[pri:0, instance:com.valuemomentum.retail.Assessment1.tests.SmokeTest@5ace1ed4]" name="test_aftersuite" is-config="true" duration-ms="1108" started-at="2021-03-23T14:48:35 IST" finished-at="2021-03-23T14:48:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_aftersuite -->
+      </class> <!-- com.valuemomentum.retail.Assessment1.tests.SmokeTest -->
+    </test> <!-- Tests -->
+  </suite> <!-- Smoke -->
+</testng-results>
